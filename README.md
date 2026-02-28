@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Nicholas Gabriel
 
-**`Desenvolvedora Web`**
+**`Desenvolvedor Web`**
 
 Sou Desenvolvedor Web e atualmente estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas.
 
