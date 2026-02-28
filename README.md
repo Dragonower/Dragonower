@@ -9,6 +9,7 @@ Tenho foco na construção de aplicações web funcionais, organizadas e com có
 Estou em constante evolução, aprofundando meus conhecimentos em desenvolvimento front-end e back-end, estruturação de sistemas e lógica de programação, com o objetivo de criar soluções eficientes e escaláveis.
 
 Aqui no meu GitHub você encontrará projetos acadêmicos, aplicações práticas e estudos voltados para o aprimoramento técnico e profissional.
+
 LinkedIn:"[Nicholas Gabriel](www.linkedin.com/in/nicholas-gabriel-7a59b025b)"
 
 <p
