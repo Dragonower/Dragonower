@@ -10,7 +10,7 @@ Estou em constante evolução, aprofundando meus conhecimentos em desenvolviment
 
 Aqui no meu GitHub você encontrará projetos acadêmicos, aplicações práticas e estudos voltados para o aprimoramento técnico e profissional.
 
-LinkedIn:"[Nicholas Gabriel](www.linkedin.com/in/nicholas-gabriel-7a59b025b)"
+LinkedIn:"[Nicholas Gabriel](https://www.linkedin.com/in/nicholas-gabriel-7a59b025b/)"
 
 <p
 
